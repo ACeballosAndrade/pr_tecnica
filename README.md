@@ -9,11 +9,9 @@ Abre el archivo de configuración del proyecto y asegúrate de que los parámetr
 3. Crea la base de datos:
 La base de datos es la misma que se envió para realizar la prueba. Solo debes importarla
 
-4. Inicia el servidor web:
-
-Inicia el servidor web en tu máquina local. Si usas XAMPP o WAMP, simplemente abre la aplicación y asegúrate de que el servicio Apache y MySQL estén iniciados.
+4. Inicia el servidor web en tu máquina local. Si usas XAMPP o WAMP, simplemente abre la aplicación y asegúrate de que el servicio Apache y MySQL estén iniciados.
 
 5. Accede al proyecto:
 
-Con la URL generalmente es "http://localhost/antonyCeballos_pt/modulos/empleado/" o "http://localhost/antonyCeballos_pt/".
+Con la URL "http://localhost/antonyCeballos_pt/modulos/empleado/" o "http://localhost/antonyCeballos_pt/".
 
